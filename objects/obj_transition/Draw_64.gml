@@ -1,0 +1,1 @@
+draw_rectangle(0,0,(screenWidth)*sin((time/maxTime)*pi),screenHeight,false)

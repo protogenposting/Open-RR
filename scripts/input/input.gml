@@ -1,0 +1,1 @@
+global.noteInputs = [ord("A"),ord("S"),ord("K"),ord("L")]
